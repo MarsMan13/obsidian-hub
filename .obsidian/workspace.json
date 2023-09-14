@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97133b292cd50df5",
+        "id": "55b3b8c05e452c46",
         "type": "tabs",
         "children": [
           {
-            "id": "c894046446a22d29",
+            "id": "dfc5719256e733ff",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "044dadd9a59ff8d7",
+            "id": "ebde3c522b4a9501",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+                "file": "Firmware Emulating.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+                "file": "Firmware Emulating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+                "file": "Firmware Emulating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md"
+                "file": "Firmware Emulating.md"
               }
             }
           },
@@ -165,10 +165,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "044dadd9a59ff8d7",
+  "active": "ebde3c522b4a9501",
   "lastOpenFiles": [
-    "notes/bobup/EMUX.md",
+    "Firmware Emulating.md",
+    "IoT Firmware.md",
+    "notes/bobup/BoBup.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+    "notes/bobup/EMUX.md",
     "notes/bobup/QEMU.md",
     "Firmadyne.md",
     "notes/bobup/QEMU tutorial-iptime.md",
@@ -182,7 +185,6 @@
     "notes/bobup/Week2 Dashboard.md",
     "notes/bobup/IoT Firmware Emulating.md",
     "무제 파일.canvas",
-    "notes/bobup/BoBup.md",
     "templates/zettelkasten.md",
     "notes/bobup/IoT Firmware.md",
     "notes/bobup/Firmware Emulating.md",
@@ -206,7 +208,6 @@
     "2023-09-15.md",
     "Sync Test.md",
     "Hello World.md",
-    "2023-09-13.md",
     "Untitled.canvas"
   ]
 }

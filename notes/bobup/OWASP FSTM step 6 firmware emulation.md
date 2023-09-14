@@ -66,11 +66,11 @@ Emulation tools
     In general, emulation with Firmadyne can be much easier than with the other tools.
 
 6. [[EMUX]] :
-	is a collection of scripts, executables, kernels, and file systems that together with QEMU
+	is a collection of scripts, executables, kernels, and file systems that together with <U>QEMU</U>
 	It tries to emulate ARM, MIPS IoT devices.
 	The project tries to be as like an IoT virtual machine as possible.
 	
 	If EMUX does not have support for the device we are emulating,
 	it has a section that explains how to create our own devices and templates to make the implementation work easier.
 
-Firmware emulation example with QEMU : Ill dot it myself soon.
+Firmware emulation example with QEMU : I'll do it myself soon.
