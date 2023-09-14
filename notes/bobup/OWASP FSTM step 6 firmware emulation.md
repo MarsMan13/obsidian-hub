@@ -29,11 +29,12 @@ Emulation tools
     
     qemu-arch
     
-2. Unicorn : is an alternative to QEMU. But to perform an emulation, advanced knowledge of the platform to be emulated is required and a large investment of time to write the code that allows us to launch its executions (on numerous occasions, peripherals and other components must be emulated at a low level for the system to work properly).
+2. [[Unicorn]] : 
+	is an alternative to QEMU. But to perform an emulation, advanced knowledge of the platform to be emulated is required and a large investment of time to write the code that allows us to launch its executions (on numerous occasions, peripherals and other components must be emulated at a low level for the system to work properly).
     
 3. [[Renode]] :
     
-    Qemu-based tool for emulating firmware.
+    <U>Qemu-based</U> tool for emulating firmware.
     
     Its functionalities include … , multiple types of devices such as sensors, displays and other system inputs and outputs.
     
@@ -43,11 +44,12 @@ Emulation tools
     
     The way to configure Renode for emulating is minimal set of devices and run the system until failures occur, then Investigate the failures and complete the list of devices.
     
-4. [[Qiling]] : to emulate any type of executables. supporting multiple architectures, OS, executable formats
+4. [[Qiling]] : 
+	to emulate any type of executables. supporting multiple architectures, OS, executable formats
     
     framework written in Python
     
-    based on Unicorn emulation engine.
+    <U>based on Unicorn</U> emulation engine.
     
     For emulating with Qiling, The file system of the extracted firmware with executable to be emulated is required.
     
@@ -65,6 +67,10 @@ Emulation tools
 
 6. [[EMUX]] :
 	is a collection of scripts, executables, kernels, and file systems that together with QEMU
-	It tries to emulate ARM, 
+	It tries to emulate ARM, MIPS IoT devices.
+	The project tries to be as like an IoT virtual machine as possible.
+	
+	If EMUX does not have support for the device we are emulating,
+	it has a section that explains how to create our own devices and templates to make the implementation work easier.
 
 Firmware emulation example with QEMU : Ill dot it myself soon.
