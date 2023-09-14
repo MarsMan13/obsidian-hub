@@ -12,7 +12,11 @@
 1. Recognizing Firmware Architecture : `binwalk -A t240000_kr_9_988.bin`
 	![[Pasted image 20230915041511.png]]
 	=> ARM architecture
-2. 
+2. Recognizing Signature : `binwalk -B t24000_kr_9_988.bin`
+	![[Pasted image 20230915041840.png]]
+		1) header at 0x400 : OS-Linux, CPU-ARM, Entry Point: 0x8000
+		2) Kernel image at 0x440
+		3) File System at 0x1A0000
 
 
 ---
