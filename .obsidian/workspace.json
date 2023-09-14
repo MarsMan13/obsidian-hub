@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "02651a5b0e7ff702",
+        "id": "b40a1c83daddb333",
         "type": "tabs",
         "children": [
           {
-            "id": "de90620d2f1c2c0c",
+            "id": "25a739e79549ec1e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hello World.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31b81020f4010c0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sync Test.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sync Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sync Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sync Test.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -159,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31b81020f4010c0d",
+  "active": "25a739e79549ec1e",
   "lastOpenFiles": [
     "Hello World.md",
     "Sync Test.md",
