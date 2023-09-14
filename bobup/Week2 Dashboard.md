@@ -8,7 +8,7 @@
 2. Do emulating
 
 ## Work Space
-1. [[IoT Firmware Emulating Understanding]]
+1. [[IoT Firmware Emulating]] Understanding
 2. [[IoT Firmware Emulating]]
 
 ## Conclusion of this week
