@@ -34,6 +34,15 @@ QEMU가 대표적인 emulator that implements variety HWs
 QEMU는 가상머신 위에서 생성된 ARM 기반의 명령어를 x86 기반의 명령어로 번역
 이것을 Binary Translation이라고 함.
 또한 하드웨어 장치 또한 소프트웨어로 구현
+=> Slow
+
+#### Simulation
+시뮬레이션은 호스트 머신에 존재하는 하드웨어 및 아키텍처를 이용 가상머신에게 제공하는 것.
+즉, Binary Translation을 수행하지 않고, 호스트 머신에 존재하는 하드웨어를 기반으로 가상 머신 환경을 꾸밀 수 있음
+따라서, 가상머신에서 생성된 명령어를 번역할 필요없이 호스트 머신에서 직접 처리할 수 있음
+=> Faster
+
+
 
 
 ---
