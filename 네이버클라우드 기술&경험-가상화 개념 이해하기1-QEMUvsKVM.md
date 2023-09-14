@@ -13,7 +13,7 @@
 	2. I/O Para-virtualization
 	3. vhost
 
-### 1. Hypervisor
+### Hypervisor
 * QEMU and KVM are some kinds of Hypervisor.
 * Hypervisor : Software that schedules multiple OSs on the single machine
 * Two types of Hypervisor
@@ -59,14 +59,32 @@ QEMU는 가상머신 위에서 생성된 ARM 기반의 명령어를 x86 기반�
 Emulation이 가능한 Hypervisor
 호스트 머신과 독립적으로 가상화된 하드웨어 및 아키텍처를 동작시킬 수 있음
 성능이 떨어짐
+반 가상화 인터페이스 제공
 
 #### KVM
 같은 종류의 CPU 아키텍처만 가상화할 수 있는 Hypervisor
 가상 머신이 생성한 명령을 호스트 머신이 직접 처리
 성능 향상
-
 반 가상화 인터페이스 제공
 
+QEMU와 KVM이 함께 사용될 수 있음
+호스트 머신과 게스트 머신이 동일한 CPU 아키텍처를 갖는 다면, KVM으로 가속화
+DD는 QEMU의 도움을 받아 전가상화할 수 있음
+![[Pasted image 20230915061059.png]]
+
+---
+### I/O 가상화
+#### I/O Full-virtualization
+I/O에서 사용되는 DD를 가상 머신용으로 특별히 수정하지 않고, Guest OS에서 사용하는 경우
+DD에 대한 emulation은 QEMU가 수행
+![[Pasted image 20230915061507.png]]
+커널 영역에서 동작하는 KVM Module과 User 영역에서 동작하는 QEMU Emulator 사이의
+Mode Transition Overhead로 인해, 느림
+
+#### I/O Para-virtualization
+반 가상화 I/O 인터페이스 VirtIO 사용
+VirtIO의 Frontend는 가상머신 내의 커널에서 구동
+VirtIO의 Backend는 호스트머신의 QEMU와 공유하는 메모리 영역인 Virtqeue를 통해 Device b
 
 
 
