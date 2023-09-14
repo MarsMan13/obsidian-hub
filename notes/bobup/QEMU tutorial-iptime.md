@@ -17,7 +17,8 @@
 		1) header at 0x400 : OS-Linux, CPU-ARM, Entry Point: 0x8000
 		2) Kernel image at 0x440
 		3) File System at 0x1A0000
-
+3. Extracting Firmware : `binwalk -e t24000_kr_9_988.bin`
+	
 
 ---
 ## Footer
