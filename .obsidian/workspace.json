@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fb60f7637439e27",
+            "id": "007f00b0a9f3853e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week1 Dashboard.md",
+                "file": "Week2 Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Week1 Dashboard.md",
+                "file": "Week2 Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Week1 Dashboard.md",
+                "file": "Week2 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Week1 Dashboard.md"
+                "file": "Week2 Dashboard.md"
               }
             }
           },
@@ -157,10 +157,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0fb60f7637439e27",
+  "active": "007f00b0a9f3853e",
   "lastOpenFiles": [
-    "BoB.md",
+    "assets/Pasted image 20230915024044.png",
     "Week1 Dashboard.md",
+    "Week2 Dashboard.md",
+    "BoB.md",
     "Home.md",
     "Pasted image 20230915021419.png.md",
     "assets/Pasted image 20230915021432.png",
