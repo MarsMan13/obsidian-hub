@@ -99,7 +99,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +115,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md"
-              }
+              "state": {}
             }
           },
           {
@@ -170,7 +166,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "862d683cbb464d8c",
+  "active": "b745024d8473e94b",
   "lastOpenFiles": [
     "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
     "notes/bobup/EMUX.md",
