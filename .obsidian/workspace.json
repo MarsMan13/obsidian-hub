@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30cc62c0cdefca50",
+        "id": "ae7762b2f06714b0",
         "type": "tabs",
         "children": [
           {
-            "id": "629ffce647841ad8",
+            "id": "0fb60f7637439e27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Week1 Dashboard.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Week1 Dashboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Week1 Dashboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Week1 Dashboard.md"
               }
             }
           },
@@ -157,15 +157,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "629ffce647841ad8",
+  "active": "0fb60f7637439e27",
   "lastOpenFiles": [
-    "Home.md",
     "BoB.md",
-    "Pasted image 20230915021432.png",
-    "Pasted image 20230915021419.png",
-    "Pasted image 20230915021050.png",
+    "Week1 Dashboard.md",
+    "Home.md",
+    "Pasted image 20230915021419.png.md",
+    "assets/Pasted image 20230915021432.png",
     "Pasted image 20230915021039.png",
+    "assets/Pasted image 20230915021050.png",
     "Pasted image 20230915020805.png",
+    "Pasted image 20230915021419.png",
+    "assets",
     "FromTheLine.jpg",
     "FromTheLine.jpg.crdownload",
     "2023-09-15.md",

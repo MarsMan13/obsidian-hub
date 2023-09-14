@@ -2,22 +2,21 @@
 banner: "![[FromTheLine.jpg]]"
 banner_y: 0
 ---
-# CGCG
+ CGCG
 ### : 넌 이미 죽어있다.
 
 ```start-multi-column
 ID: ID_qxf2
 Number of Columns: 3
 Largest Column: standard
+Border: off
 ```
-
-
 ![[Pasted image 20230915021432.png]]
 
 --- column-end ---
 
 
-![[Pasted image 20230915021419.png]]
+![[Pasted image 20230915021050.png]]
 
 --- column-end ---
 
@@ -33,7 +32,7 @@ Largest Column: standard
 
 나는 이제 너 없이도
 너를 좋아할 수 있다
---- end-multi-column
-## Projects
+
+--- end-multi-column## Projects
 1. [[BoB]]
 2. [[ISlab]]
