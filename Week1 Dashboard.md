@@ -1,10 +1,6 @@
 # 1주차 대시보드
 
-  
-
 # Goal of this week
-
-  
 
 1. Firmware를 Fuzzing이나 정적분석기와 같은 자동화 툴을 이용해서 분석하겠다.
 
