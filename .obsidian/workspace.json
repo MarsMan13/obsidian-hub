@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31b81020f4010c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sync Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hello World.md",
+                "file": "Sync Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hello World.md",
+                "file": "Sync Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hello World.md"
+                "file": "Sync Test.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "de90620d2f1c2c0c",
+  "active": "31b81020f4010c0d",
   "lastOpenFiles": [
-    "2023-09-15.md",
-    "Hello World.md"
+    "Hello World.md",
+    "Sync Test.md",
+    "2023-09-15.md"
   ]
 }
