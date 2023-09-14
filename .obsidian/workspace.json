@@ -4,22 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "1fef6e8a1f9dfc17",
+        "id": "97133b292cd50df5",
         "type": "tabs",
         "children": [
           {
-            "id": "8146c011ee0c16c9",
+            "id": "c894046446a22d29",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "044dadd9a59ff8d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bobup/QEMU tutorial-iptime.md",
+                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f87fedb03436098c",
@@ -86,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/QEMU tutorial-iptime.md",
+                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/QEMU tutorial-iptime.md",
+                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/QEMU tutorial-iptime.md"
+                "file": "notes/bobup/OWASP FSTM step 6 firmware emulation.md"
               }
             }
           },
@@ -157,15 +165,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8146c011ee0c16c9",
+  "active": "044dadd9a59ff8d7",
   "lastOpenFiles": [
+    "notes/bobup/EMUX.md",
+    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+    "notes/bobup/QEMU.md",
+    "Firmadyne.md",
+    "notes/bobup/QEMU tutorial-iptime.md",
     "assets/Pasted image 20230915041840.png",
     "assets/Pasted image 20230915041511.png",
-    "notes/bobup/QEMU tutorial-iptime.md",
     "notes/bobup/QEMU tutorial.md",
     "notes/bobup/QEMU Documentation.md",
     "notes/bobup/Week1 Dashboard.md",
-    "notes/bobup/QEMU.md",
     "notes/bobup/Renode Documentation.md",
     "templates/bobup-template.md",
     "notes/bobup/Week2 Dashboard.md",
@@ -173,7 +184,6 @@
     "무제 파일.canvas",
     "notes/bobup/BoBup.md",
     "templates/zettelkasten.md",
-    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/IoT Firmware.md",
     "notes/bobup/Firmware Emulating.md",
     "test.md",

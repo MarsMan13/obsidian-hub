@@ -62,6 +62,9 @@ Emulation tools
     However installation of this suite can be more complicated.
     
     In general, emulation with Firmadyne can be much easier than with the other tools.
-    
+
+6. [[EMUX]] :
+	is a collection of scripts, executables, kernels, and file systems that together with QEMU
+	It tries to emulate ARM, 
 
 Firmware emulation example with QEMU : Ill dot it myself soon.
