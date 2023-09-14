@@ -84,8 +84,16 @@ Mode Transition Overhead로 인해, 느림
 #### I/O Para-virtualization
 반 가상화 I/O 인터페이스 VirtIO 사용
 VirtIO의 Frontend는 가상머신 내의 커널에서 구동
-VirtIO의 Backend는 호스트머신의 QEMU와 공유하는 메모리 영역인 Virtqeue를 통해 Device b
+호스트머신의 QEMU와 공유하는 메모리 영역인 Virtqeue를 통해 Device Backend와 연결됨
+KVM Module을 거치지 않으므로, User Space에서만 동작해서 빠른듯
 
+![[Pasted image 20230915061855.png]]
+ex) virio-net, virio-blk, virio-scsi
+
+#### vhost
+VirtIO backend가 커널에서 직접 수행됨 ???????????????????
+![[Pasted image 20230915062256.png]]
+ex) vhost-net, vhost-scsi, vhost-blk 등
 
 
 ---
@@ -104,3 +112,5 @@ VirtIO의 Backend는 호스트머신의 QEMU와 공유하는 메모리 영역인
 - [[Simulation]]
 - [[Full-Virtualization]]
 - [[Para-Virtualization]]
+- [[I/O-Virtualization]]
+- [[vhost]]
