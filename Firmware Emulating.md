@@ -13,4 +13,4 @@
 
 #### Connected Notes
 - [[Firmware]]
-- [[OWASP FSTM
+- [[네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM]]

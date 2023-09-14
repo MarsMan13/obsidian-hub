@@ -74,3 +74,5 @@ Emulation tools
 	it has a section that explains how to create our own devices and templates to make the implementation work easier.
 
 Firmware emulation example with QEMU : I'll do it myself soon.
+
+[[IoT Firmware Emulating]]

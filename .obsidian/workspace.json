@@ -4,24 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "55b3b8c05e452c46",
+        "id": "9ef076368c3a5d5e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfc5719256e733ff",
+            "id": "49e4bb1fbf900dd8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
-            "id": "ebde3c522b4a9501",
+            "id": "187286c5ea5650ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Firmware Emulating.md",
+                "file": "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Firmware Emulating.md",
+                "file": "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Firmware Emulating.md",
+                "file": "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Firmware Emulating.md"
+                "file": "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md"
               }
             }
           },
@@ -165,15 +167,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ebde3c522b4a9501",
+  "active": "187286c5ea5650ab",
   "lastOpenFiles": [
+    "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+    "notes/bobup/IoT Firmware Emulating.md",
     "Firmware Emulating.md",
+    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+    "notes/bobup/Week2 Dashboard.md",
+    "Renode.md",
+    "Qiling.md",
+    "Unicorn.md",
+    "Firmadyne.md",
     "IoT Firmware.md",
     "notes/bobup/BoBup.md",
-    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/EMUX.md",
     "notes/bobup/QEMU.md",
-    "Firmadyne.md",
     "notes/bobup/QEMU tutorial-iptime.md",
     "assets/Pasted image 20230915041840.png",
     "assets/Pasted image 20230915041511.png",
@@ -182,8 +190,6 @@
     "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/Renode Documentation.md",
     "templates/bobup-template.md",
-    "notes/bobup/Week2 Dashboard.md",
-    "notes/bobup/IoT Firmware Emulating.md",
     "무제 파일.canvas",
     "templates/zettelkasten.md",
     "notes/bobup/IoT Firmware.md",
@@ -197,7 +203,6 @@
     "bobup/IoT Firmware Emulating Understanding.md",
     "notes/bobup",
     "assets/IoTFirmwareEmulatingUnderstandingLogic.png",
-    "Pasted image 20230915021419.png.md",
     "assets/Pasted image 20230915021432.png",
     "Pasted image 20230915021039.png",
     "assets/Pasted image 20230915021050.png",
@@ -205,9 +210,6 @@
     "Pasted image 20230915021419.png",
     "assets",
     "FromTheLine.jpg.crdownload",
-    "2023-09-15.md",
-    "Sync Test.md",
-    "Hello World.md",
     "Untitled.canvas"
   ]
 }
