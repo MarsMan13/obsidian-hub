@@ -9,6 +9,7 @@
 > 
 
 #### Refs
+* [Kisec:EMUX 소개 youtube 영상](https://youtu.be/Njn7TDh_LgA?si=lyBL0lZDu_UuokcN)
 * 
 
 #### Connected Notes
