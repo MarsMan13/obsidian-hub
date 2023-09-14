@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f87fedb03436098c",
@@ -141,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,6 +159,7 @@
   },
   "active": "8146c011ee0c16c9",
   "lastOpenFiles": [
+    "assets/Pasted image 20230915041511.png",
     "notes/bobup/QEMU tutorial-iptime.md",
     "notes/bobup/QEMU tutorial.md",
     "notes/bobup/QEMU Documentation.md",
