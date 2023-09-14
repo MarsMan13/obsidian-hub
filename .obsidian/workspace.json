@@ -11,12 +11,8 @@
             "id": "b745024d8473e94b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bobup/EMUX.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/EMUX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/EMUX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/bobup/EMUX.md"
-              }
+              "state": {}
             }
           },
           {
@@ -158,6 +150,7 @@
   },
   "active": "b745024d8473e94b",
   "lastOpenFiles": [
+    "notes/bobup/EMUX.md",
     "notes/bobup/IoT Firmware Emulating.md",
     "notes/bobup/Week2 Dashboard.md",
     "notes/bobup/Unicorn.md",
@@ -181,7 +174,6 @@
     "assets/Pasted image 20230915051930.png",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/BoBup.md",
-    "notes/bobup/EMUX.md",
     "notes/bobup/QEMU.md",
     "assets/Pasted image 20230915041840.png",
     "assets/Pasted image 20230915041511.png",
