@@ -18,7 +18,7 @@
             }
           },
           {
-            "id": "187286c5ea5650ab",
+            "id": "e653bf7d2b972081",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,9 +167,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "187286c5ea5650ab",
+  "active": "e653bf7d2b972081",
   "lastOpenFiles": [
+    "templates/bobup-template.md",
     "네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+    "assets/Pasted image 20230915052216.png",
+    "assets/Pasted image 20230915051930.png",
     "notes/bobup/IoT Firmware Emulating.md",
     "Firmware Emulating.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
@@ -189,7 +192,6 @@
     "notes/bobup/QEMU Documentation.md",
     "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/Renode Documentation.md",
-    "templates/bobup-template.md",
     "무제 파일.canvas",
     "templates/zettelkasten.md",
     "notes/bobup/IoT Firmware.md",
@@ -200,14 +202,12 @@
     "notes",
     "Untitled.md",
     "templates",
-    "bobup/IoT Firmware Emulating Understanding.md",
     "notes/bobup",
     "assets/IoTFirmwareEmulatingUnderstandingLogic.png",
     "assets/Pasted image 20230915021432.png",
     "Pasted image 20230915021039.png",
     "assets/Pasted image 20230915021050.png",
     "Pasted image 20230915020805.png",
-    "Pasted image 20230915021419.png",
     "assets",
     "FromTheLine.jpg.crdownload",
     "Untitled.canvas"

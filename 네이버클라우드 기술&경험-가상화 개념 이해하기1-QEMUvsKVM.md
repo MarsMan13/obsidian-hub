@@ -14,8 +14,29 @@
 	3. vhost
 
 ### 1. Hypervisor
-* QEMU and KVM are some 
+* QEMU and KVM are some kinds of Hypervisor.
+* Hypervisor : Software that schedules multiple OSs on the single machine
+* Two types of Hypervisor
+	  ![[Pasted image 20230915051930.png]]
+	1. Type1 without OS
+		ex) XEN, VMware's ESXi
+	2. Type2 : Hypervisor on the OS. aks Hosted type
+		ex) KVM, QEMU, Virtualbox
+	![[Pasted image 20230915052216.png]]
+### Emulation VS Simulation
+* diff between Emulation and Simulation makes diff between QEMU, KVM
+#### Emulation
+에뮬레이션은 호스트 머신에 존재하지 않는 하드웨어 및 아키텍처를 가상머신에 제공
+ex) X86 머신에서 동작하는 ARM 기반의 Android OS
 
+QEMU가 대표적인 emulator that implements variety HWs
+
+QEMU는 가상머신 위에서 생성된 ARM 기반의 명령어를 x86 기반의 명령어로 번역
+이것을 Binary Translation이라고 함.
+또한 하드웨어 장치 또한 소프트웨어로 구현
+
+
+---
 ## Footer
 #### Thinking
 > 
