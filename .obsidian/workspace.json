@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e17560953e8f490d",
+        "id": "7a6962c388a3ac29",
         "type": "tabs",
         "children": [
           {
-            "id": "d16fc1293146522a",
+            "id": "8da58a96eaff4b5a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "templates/bobup-template.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "templates/bobup-template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "templates/bobup-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "templates/bobup-template.md"
               }
             }
           },
@@ -157,24 +157,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d16fc1293146522a",
+  "active": "8da58a96eaff4b5a",
   "lastOpenFiles": [
-    "FromTheLine.jpg",
+    "notes/bobup/QEMU tutorial.md",
+    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
+    "notes/bobup/IoT Firmware Emulating.md",
+    "notes/bobup/BoBup.md",
+    "notes/bobup/Week2 Dashboard.md",
+    "notes/bobup/Week1 Dashboard.md",
+    "notes/bobup/IoT Firmware.md",
+    "notes/bobup/Firmware Emulating.md",
+    "templates/bobup-template.md",
     "templates/zettelkasten.md",
+    "test.md",
+    "Home.md",
+    "FromTheLine.jpg",
     "notes",
     "Untitled.md",
     "templates",
-    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
-    "notes/bobup/IoT Firmware Emulating.md",
-    "notes/bobup/Firmware Emulating.md",
     "bobup/IoT Firmware Emulating Understanding.md",
-    "notes/bobup/Week2 Dashboard.md",
-    "notes/bobup/Week1 Dashboard.md",
     "notes/bobup",
-    "notes/bobup/IoT Firmware.md",
     "assets/IoTFirmwareEmulatingUnderstandingLogic.png",
-    "notes/bobup/BoB.md",
-    "Home.md",
     "Pasted image 20230915021419.png.md",
     "assets/Pasted image 20230915021432.png",
     "Pasted image 20230915021039.png",

@@ -34,5 +34,5 @@ Border: off
 너를 좋아할 수 있다
 
 --- end-multi-column## Projects
-1. [[BoB]]
+1. [[BoBup]]
 2. [[ISlab]]

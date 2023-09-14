@@ -1,4 +1,4 @@
-{{date:YYY-MM-DD}}{{time}}
+{{date:YYY-MM-DD}} {{time}}
 #### 주제: #zettelkasten 
 ---
 #### 생각
