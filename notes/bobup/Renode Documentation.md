@@ -10,6 +10,13 @@
 The monitor is used to interact with Renode and control the emulation
 
 ####  Basic interactive workflow
+Start by creating the emulation through a sequence of commands building up, configuring, and connecting the relevant emulated platform(s)(aka machines)
+
+This is done using nested **.resc script** to enchapsulate some of the repeatable commands?
+
+When the emulation is created and all the necessary elements are loaded, Start with `start` command in the Monitor
+
+As running, log
 
 
 
