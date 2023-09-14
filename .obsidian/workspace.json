@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "acceca6abb12f908",
+        "id": "e4aae2fcecb0f095",
         "type": "tabs",
         "children": [
           {
-            "id": "ea29ac98ef589d68",
+            "id": "e85550af8d16bea8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bobup/OWASP FSTM step 6 firmware emulation.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bobup/OWASP FSTM step 6 firmware emulation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bobup/OWASP FSTM step 6 firmware emulation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bobup/OWASP FSTM step 6 firmware emulation.md"
-              }
+              "state": {}
             }
           },
           {
@@ -157,13 +149,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ea29ac98ef589d68",
+  "active": "e85550af8d16bea8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "templates/Untitled.md",
+    "templates",
+    "bobup/OWASP FSTM step 6 firmware emulation.md",
     "bobup/IoT Firmware Emulating.md",
     "bobup/Firmware Emulating.md",
     "bobup/IoT Firmware Emulating Understanding.md",
     "bobup/Week2 Dashboard.md",
-    "bobup/OWASP FSTM step 6 firmware emulation.md",
     "bobup/Week1 Dashboard.md",
     "bobup",
     "bobup/IoT Firmware.md",
