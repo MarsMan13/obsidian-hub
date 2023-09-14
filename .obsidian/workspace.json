@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "b40a1c83daddb333",
+        "id": "0d68c4e577092cc1",
         "type": "tabs",
         "children": [
           {
-            "id": "25a739e79549ec1e",
+            "id": "89badbfb5091cdea",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "weekly",
               "state": {}
             }
+          },
+          {
+            "id": "e5c46935e7f7014a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-09-13.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2023-09-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2023-09-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +133,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "2023-09-13.md"
+              }
+            }
+          },
+          {
+            "id": "dd4d47072b8ad165",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -135,12 +160,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Week plan": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "25a739e79549ec1e",
+  "active": "e5c46935e7f7014a",
   "lastOpenFiles": [
+    "2023-09-13.md",
     "Hello World.md",
+    "Untitled.canvas",
     "Sync Test.md",
     "2023-09-15.md"
   ]
