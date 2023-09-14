@@ -4,19 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f926ed81ea922cb9",
+        "id": "f0de1996ca5e6c48",
         "type": "tabs",
         "children": [
           {
-            "id": "17f75517f4f2b703",
-            "type": "leaf",
-            "state": {
-              "type": "weekly",
-              "state": {}
-            }
-          },
-          {
-            "id": "95b36e46421a083e",
+            "id": "216de6aea91fa360",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -166,10 +157,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "95b36e46421a083e",
+  "active": "216de6aea91fa360",
   "lastOpenFiles": [
-    "FromTheLine.jpg",
+    "Pasted image 20230915021050.png",
+    "Pasted image 20230915021039.png",
+    "Pasted image 20230915020805.png",
     "Home.md",
+    "FromTheLine.jpg",
     "FromTheLine.jpg.crdownload",
     "2023-09-15.md",
     "Sync Test.md",
