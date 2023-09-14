@@ -47,6 +47,25 @@ QEMU는 가상머신 위에서 생성된 ARM 기반의 명령어를 x86 기반�
 ### Full Virtualization VS Para Virtualization
 #### Full Virtualization
 전 가상화는 가상 머신에서 구동될 OS 혹은 Device Driver(DD)에 특별한 수정이 필요없는 경우.
+즉, 물리 환경에서 동작하는 운영체제와 장치의 드라이버들을 그대로 가상 머신에서 사용할 수 있음
+반 가상화에 비해 상대적으로 속도가 느림
+
+#### Para Virtualization
+수정된 Guest OS 혹은 수정된 DD를 사용하는 경우
+대표적으로 Xen의 경우 최적화를 위해 Hyper Call을 활용하여 반 가상화
+
+### QEMU vs KVM
+#### QEMU
+Emulation이 가능한 Hypervisor
+호스트 머신과 독립적으로 가상화된 하드웨어 및 아키텍처를 동작시킬 수 있음
+성능이 떨어짐
+
+#### KVM
+같은 종류의 CPU 아키텍처만 가상화할 수 있는 Hypervisor
+가상 머신이 생성한 명령을 호스트 머신이 직접 처리
+성능 향상
+
+반 가상화 인터페이스 제공
 
 
 
@@ -61,3 +80,9 @@ QEMU는 가상머신 위에서 생성된 ARM 기반의 명령어를 x86 기반�
 
 #### Connected Notes
 - [[Emulation]] 
+- [[QEMU]]
+- [[KVM]]
+- [[Hypervisor]]
+- [[Simulation]]
+- [[Full-Virtualization]]
+- [[Para-Virtualization]]
