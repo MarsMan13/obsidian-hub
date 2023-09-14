@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7a6962c388a3ac29",
+        "id": "7d760820edb4e884",
         "type": "tabs",
         "children": [
           {
-            "id": "8da58a96eaff4b5a",
+            "id": "fadf80cf500b3f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/bobup-template.md",
+                "file": "notes/bobup/QEMU tutorial.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/bobup-template.md",
+                "file": "notes/bobup/QEMU tutorial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/bobup-template.md",
+                "file": "notes/bobup/QEMU tutorial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/bobup-template.md"
+                "file": "notes/bobup/QEMU tutorial.md"
               }
             }
           },
@@ -157,8 +157,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8da58a96eaff4b5a",
+  "active": "fadf80cf500b3f91",
   "lastOpenFiles": [
+    "templates/bobup-template.md",
+    "templates/zettelkasten.md",
     "notes/bobup/QEMU tutorial.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/IoT Firmware Emulating.md",
@@ -167,8 +169,6 @@
     "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/IoT Firmware.md",
     "notes/bobup/Firmware Emulating.md",
-    "templates/bobup-template.md",
-    "templates/zettelkasten.md",
     "test.md",
     "Home.md",
     "FromTheLine.jpg",
