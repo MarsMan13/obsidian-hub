@@ -1,4 +1,4 @@
-232023-09-15 04:06
+232023-09-15 04:08
 #### Topics: #zettelkasten #BoB #bobup #Project
 ---
 ## Workspace
@@ -9,7 +9,7 @@
 > 
 
 #### Refs
-* 
+* [[QEMU]]
 
 #### Connected Notes
 - 
