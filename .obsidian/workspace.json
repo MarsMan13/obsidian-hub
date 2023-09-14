@@ -137,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,7 +156,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8531b203ce08f29a",
+  "active": "0f9ca68b543f97a0",
   "lastOpenFiles": [
     "notes/bobup/IoT Firmware Emulating.md",
     "notes/bobup/BoBup.md",

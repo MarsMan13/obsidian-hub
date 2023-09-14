@@ -16,7 +16,15 @@ This is done using nested **.resc script** to enchapsulate some of the repeatabl
 
 When the emulation is created and all the necessary elements are loaded, Start with `start` command in the Monitor
 
-As running, log
+As running,
+We can use logger window
+interact with the external interfaces of the emulated machines like UARTs or Ethernet controllers
+
+#### .resc scripts
+Renode scripts(.resc) enable you to encapsulate repeatable elements
+Renode has many built-in `.resc` files
+So we can use it by `include` command
+
 
 
 
@@ -28,4 +36,6 @@ As running, log
 * 
 
 #### 연결문서
-- 
+
+### Running your first demo
+#### 
