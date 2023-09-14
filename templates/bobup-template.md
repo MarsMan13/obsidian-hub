@@ -1,14 +1,15 @@
 {{date:YYY-MM-DD}} {{time}}
-#### 주제: #zettelkasten #BoB #bobup #Project
+#### Topics: #zettelkasten #BoB #bobup #Project
 ---
-## 내용
+## Workspace
 * 
 
-#### 생각
+## Footer
+#### Thinking
 > 
 
-#### 출처
+#### Refs
 * 
 
-#### 연결문서
+#### Connected Notes
 - 

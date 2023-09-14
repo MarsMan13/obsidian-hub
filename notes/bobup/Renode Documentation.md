@@ -36,6 +36,4 @@ So we can use it by `include` command
 * 
 
 #### 연결문서
-
-### Running your first demo
-#### 
+- [[Renode]]

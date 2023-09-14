@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "3be0677848a81768",
+        "id": "7954abbb072fcf0c",
         "type": "tabs",
         "children": [
           {
-            "id": "c30d07fdbfdb928d",
+            "id": "6a66d3d293c597d1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/bobup/Renode Documentation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/bobup/Renode Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/bobup/Renode Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/bobup/Renode Documentation.md"
+              }
             }
           },
           {
@@ -148,16 +156,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c30d07fdbfdb928d",
+  "active": "6a66d3d293c597d1",
   "lastOpenFiles": [
+    "notes/bobup/QEMU Documentation.md",
+    "notes/bobup/Renode Documentation.md",
+    "templates/bobup-template.md",
     "notes/bobup/Week2 Dashboard.md",
     "notes/bobup/IoT Firmware Emulating.md",
     "무제 파일.canvas",
     "notes/bobup/BoBup.md",
-    "notes/bobup/Renode Documentation.md",
     "templates/zettelkasten.md",
-    "templates/bobup-template.md",
-    "notes/bobup/QEMU Documentation.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/IoT Firmware.md",
