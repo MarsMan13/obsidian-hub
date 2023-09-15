@@ -8,7 +8,7 @@
 > 
 
 #### 출처
-* 
+* [QEMU Documentation](https://www.qemu.org/docs/master/about/build-platforms.html)
 
 #### 연결문서
 - [[QEMU]]
