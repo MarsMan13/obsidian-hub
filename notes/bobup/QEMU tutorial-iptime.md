@@ -35,7 +35,8 @@
 	-net : 포트 리다이렉션 between host and guest
 	![[Pasted image 20230916041225.png]]
  6. Place filesystem at Guest by using scp
-    ``
+    `sudo scp -P 2022 squashfs-root.tar root@localhost:/root`
+7. 
 
 ---
 ## Footer
