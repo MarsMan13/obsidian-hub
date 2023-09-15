@@ -38,7 +38,11 @@
     `sudo scp -P 2022 squashfs-root.tar root@localhost:/root`
 	`tar xvf squashfs-root.tar`
 7. CHROOT
-8. 
+8. cgibin 파일 복사
+9. `./sbin/httpd`
+
+
+
 
 ---
 ## Footer
