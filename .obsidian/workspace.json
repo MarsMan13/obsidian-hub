@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b40a1c83daddb333",
+        "id": "600f84328ed98f7a",
         "type": "tabs",
         "children": [
           {
-            "id": "25a739e79549ec1e",
+            "id": "91c1c27de3642f63",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "25a739e79549ec1e",
+  "active": "91c1c27de3642f63",
   "lastOpenFiles": [
     "Untitled.md",
     "notes/bobup/Untitled.md",
