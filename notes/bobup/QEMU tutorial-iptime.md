@@ -34,9 +34,11 @@
 	-append "root=/dev/sda1" : 커널에 전달될 부팅 옵션 => /dev/sda1으로 사용
 	-net : 포트 리다이렉션 between host and guest
 	![[Pasted image 20230916041225.png]]
- 6. Place filesystem at Guest by using scp
+ 6. Place filesystem at Guest by using scp. And unpack it
     `sudo scp -P 2022 squashfs-root.tar root@localhost:/root`
-7. 
+	`tar xvf squashfs-root.tar`
+7. CHROOT
+8. 
 
 ---
 ## Footer
