@@ -40,14 +40,11 @@
 7. CHROOT
 8. cgibin 파일 복사
 9. `./sbin/httpd`
-
-
-
-
 ---
 ## Footer
 #### Thinking
-> 
+> 위의 과정을 살펴보면 사실 
+
 
 #### Refs
 * [[ 정보보안 프로젝트 ] 공유기 펌웨어 환경 구축](https://devdori.tistory.com/45)
