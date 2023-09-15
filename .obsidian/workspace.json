@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5916647033b04882",
+        "id": "6bddc03b41bcdf17",
         "type": "tabs",
         "children": [
           {
-            "id": "4eac699a7e2c8e44",
+            "id": "44cebbbde4f750f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -154,14 +148,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4eac699a7e2c8e44",
+  "active": "44cebbbde4f750f4",
   "lastOpenFiles": [
+    "notes/bobup/공유기해킹-ARMexploitation.pdf",
     "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "notes/bobup/EMUX.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/Week2 Dashboard.md",
     "notes/bobup/IoT Firmware Emulating.md",
-    "notes/bobup/공유기해킹-ARMexploitation.pdf",
     "notes/bobup/QEMU tutorial-iptime.md",
     "notes/bobup/QEMU tutorial.md",
     "notes/bobup/QEMU Documentation.md",
