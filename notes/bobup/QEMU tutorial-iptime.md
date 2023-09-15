@@ -43,13 +43,16 @@
 ---
 ## Footer
 #### Thinking
-> 위의 과정을 살펴보면 사실 
+> 위의 과정을 살펴보면 사실
+> 1. binwalk를 통해 펌웨어의 아키텍처와 파일시스템을 추출하고
+> 2. 해당 펌웨어에 알맞게 가상화를 한 후
+> 3. 가상화된 OS에 파일시스템을 옳기는 과정이다
 
 
 #### Refs
 * [[ 정보보안 프로젝트 ] 공유기 펌웨어 환경 구축](https://devdori.tistory.com/45)
 * [IoT-장비-분석-공유기-펌웨어-분석](https://laoching.tistory.com/entry/IoT-%EC%9E%A5%EB%B9%84-%EB%B6%84%EC%84%9D-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D)
-
+ * [해커스쿨 강의자료](./공유기 해킹 - ARM exploitation.pdf)
 
 #### Connected Notes
 * [[QEMU tutorial]]
