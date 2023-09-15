@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff0ea2341ada46cb",
+        "id": "b40a1c83daddb333",
         "type": "tabs",
         "children": [
           {
-            "id": "b745024d8473e94b",
+            "id": "25a739e79549ec1e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "f87fedb03436098c",
@@ -120,20 +120,13 @@
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "dd4d47072b8ad165",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,56 +135,50 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-day-planner:Week plan": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "b745024d8473e94b",
+  "active": "25a739e79549ec1e",
   "lastOpenFiles": [
+    "Untitled.md",
     "notes/bobup/Untitled.md",
+    "notes/bobup/QEMU Documentation.md",
     "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
-    "notes/bobup/EMUX.md",
-    "notes/bobup/IoT Firmware Emulating.md",
+    "templates/zettelkasten.md",
+    "templates/bobup-template.md",
+    "templates",
+    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "notes/bobup/Week2 Dashboard.md",
+    "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/Unicorn.md",
     "notes/bobup/Renode.md",
+    "notes/bobup/Renode Documentation.md",
     "notes/bobup/Qiling.md",
+    "notes/bobup/QEMU.md",
+    "notes/bobup/QEMU tutorial.md",
+    "notes/bobup/QEMU tutorial-iptime.md",
+    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/IoT Firmware.md",
-    "FromTheLine.jpg",
+    "notes/bobup/IoT Firmware Emulating.md",
     "notes/bobup/Firmware Emulating.md",
     "notes/bobup/Firmadyne.md",
-    "binwalk.md",
-    "notes/bobup/QEMU tutorial-iptime.md",
-    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+    "notes/bobup/EMUX.md",
+    "notes/bobup/BoBup.md",
+    "notes/bobup",
+    "notes",
     "assets/Pasted image 20230915062256.png",
     "assets/Pasted image 20230915061855.png",
     "assets/Pasted image 20230915061507.png",
     "assets/Pasted image 20230915061059.png",
     "assets/Pasted image 20230915054934.png",
-    "templates/bobup-template.md",
-    "Home.md",
     "assets/Pasted image 20230915052216.png",
     "assets/Pasted image 20230915051930.png",
-    "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
-    "notes/bobup/BoBup.md",
-    "notes/bobup/QEMU.md",
     "assets/Pasted image 20230915041840.png",
     "assets/Pasted image 20230915041511.png",
-    "notes/bobup/QEMU tutorial.md",
-    "notes/bobup/QEMU Documentation.md",
-    "notes/bobup/Week1 Dashboard.md",
-    "notes/bobup/Renode Documentation.md",
-    "무제 파일.canvas",
-    "templates/zettelkasten.md",
-    "notes/bobup/IoT Firmware.md",
-    "notes/bobup/Firmware Emulating.md",
-    "notes",
-    "templates",
-    "notes/bobup",
+    "assets/Pasted image 20230915021432.png",
     "assets",
-    "FromTheLine.jpg.crdownload",
-    "Untitled.canvas"
+    "Home.md",
+    "Hello World.md",
+    "Sync Test.md"
   ]
 }
