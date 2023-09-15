@@ -11,11 +11,9 @@
             "id": "4eac699a7e2c8e44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
-                "mode": "source",
-                "source": false
+                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md"
+                "file": "notes/bobup/공유기해킹-ARMexploitation.pdf"
               }
             }
           },
@@ -158,6 +156,7 @@
   },
   "active": "4eac699a7e2c8e44",
   "lastOpenFiles": [
+    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "notes/bobup/EMUX.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/Week2 Dashboard.md",
@@ -180,7 +179,6 @@
     "notes/bobup/Firmware Emulating.md",
     "notes/bobup/Firmadyne.md",
     "binwalk.md",
-    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "assets/Pasted image 20230915062256.png",
     "assets/Pasted image 20230915061855.png",
     "assets/Pasted image 20230915061507.png",
