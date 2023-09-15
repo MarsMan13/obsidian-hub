@@ -52,7 +52,7 @@
 #### Refs
 * [[ 정보보안 프로젝트 ] 공유기 펌웨어 환경 구축](https://devdori.tistory.com/45)
 * [IoT-장비-분석-공유기-펌웨어-분석](https://laoching.tistory.com/entry/IoT-%EC%9E%A5%EB%B9%84-%EB%B6%84%EC%84%9D-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%ED%8E%8C%EC%9B%A8%EC%96%B4-%EB%B6%84%EC%84%9D)
- * [해커스쿨 강의자료](./공유기 해킹 - ARM exploitation.pdf)
+ * [해커스쿨 강의자료](./공유기해킹-ARMexploitation.pdf)
 
 #### Connected Notes
 * [[QEMU tutorial]]
