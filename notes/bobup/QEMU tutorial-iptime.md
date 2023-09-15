@@ -18,7 +18,18 @@
 		2) Kernel image at 0x440
 		3) File System at 0x1A0000
 3. Extracting Firmware : `binwalk -e t24000_kr_9_988.bin`
-	
+4. QEMU 실행 : 
+	```
+	qemu-system-arm -M versatilepb -kernel vmlinuz-3.2.0-4-versatile -initrd
+	initrd.img-3.2.0-4-versatile -hda debian_wheezy_armel_standard.qcow2 -append
+	"root=/dev/sda1" -redir tcp:2080::80 -redir tcp:2022::22
+	```
+qemu-system-arm : ARM 아키텍처
+-M versatile : 사용할 머신의 타입 (ARM 보드)
+-kernel vmlinuz-3.2.0-4-versatile : 리눅스 커널
+-initrd initrd.img-3.2.0-4-versatile : 초기 RAM 디스크 이미지
+-hda debian_
+
 
 ---
 ## Footer
