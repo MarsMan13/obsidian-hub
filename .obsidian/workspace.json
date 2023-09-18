@@ -20,6 +20,38 @@
             }
           },
           {
+            "id": "fa44162c8ca46ba2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/bobup/QEMU Network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d3ef516527b6a45d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/bobup/OS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cd1fecb9c52d9d3a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
             "id": "e8b3285bf7b03c8c",
             "type": "leaf",
             "state": {
@@ -29,7 +61,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+                "file": "notes/bobup/OS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
+                "file": "notes/bobup/OS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md"
+                "file": "notes/bobup/OS.md"
               }
             }
           },
@@ -166,11 +199,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "44cebbbde4f750f4",
+  "active": "d3ef516527b6a45d",
   "lastOpenFiles": [
+    "notes/bobup/QEMU Network.md",
+    "notes/bobup/OS.md",
+    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "Home.md",
     "notes/bobup/공유기해킹-ARMexploitation.pdf",
-    "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "notes/bobup/EMUX.md",
     "notes/bobup/OWASP FSTM step 6 firmware emulation.md",
     "notes/bobup/Week2 Dashboard.md",
@@ -183,7 +218,6 @@
     "notes/bobup/미확인 92398.crdownload",
     "notes/bobup/Qiling.md",
     "assets/Pasted image 20230916041225.png",
-    "notes/bobup/Untitled.md",
     "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
     "notes/bobup/Unicorn.md",
     "notes/bobup/Renode.md",
