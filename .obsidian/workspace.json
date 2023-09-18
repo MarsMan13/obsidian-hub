@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/bobup/OS.md",
+                "file": "notes/bobup/QEMU Network.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/OS.md",
+                "file": "notes/bobup/QEMU Network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/OS.md",
+                "file": "notes/bobup/QEMU Network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/OS.md"
+                "file": "notes/bobup/QEMU Network.md"
               }
             }
           },
@@ -201,8 +201,8 @@
   },
   "active": "d3ef516527b6a45d",
   "lastOpenFiles": [
-    "notes/bobup/QEMU Network.md",
     "notes/bobup/OS.md",
+    "notes/bobup/QEMU Network.md",
     "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "Home.md",
     "notes/bobup/공유기해킹-ARMexploitation.pdf",
