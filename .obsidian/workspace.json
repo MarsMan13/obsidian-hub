@@ -14,6 +14,16 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "e8b3285bf7b03c8c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.13"
+              }
+            }
           }
         ]
       }
@@ -150,6 +160,7 @@
   },
   "active": "44cebbbde4f750f4",
   "lastOpenFiles": [
+    "Home.md",
     "notes/bobup/공유기해킹-ARMexploitation.pdf",
     "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "notes/bobup/EMUX.md",
@@ -179,7 +190,6 @@
     "assets/Pasted image 20230915061059.png",
     "assets/Pasted image 20230915054934.png",
     "templates/bobup-template.md",
-    "Home.md",
     "assets/Pasted image 20230915052216.png",
     "assets/Pasted image 20230915051930.png",
     "assets/Pasted image 20230915041840.png",
