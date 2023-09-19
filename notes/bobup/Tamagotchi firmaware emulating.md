@@ -2,7 +2,7 @@
 #### Topics: #zettelkasten #BoB #bobup #Project
 ---
 ## Workspace
-* 
+* [How to create a new system or board to be emulated by QEMU](https://stackoverflow.com/questions/68926764/how-to-create-a-new-system-or-board-to-be-emulated-by-qemu)
 
 ---
 ## Footer
