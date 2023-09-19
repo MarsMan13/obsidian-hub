@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bddc03b41bcdf17",
+        "id": "3b8955f053e1dc22",
         "type": "tabs",
         "children": [
           {
-            "id": "44cebbbde4f750f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa44162c8ca46ba2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bobup/QEMU Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d3ef516527b6a45d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bobup/QEMU Network.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d75ec6362ae6d884",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/bobup/Embeded.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd1fecb9c52d9d3a",
+            "id": "eaff3f0d9d3fd647",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -64,17 +16,19 @@
             }
           },
           {
-            "id": "e8b3285bf7b03c8c",
+            "id": "6949cd456fbcae1b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.13"
+                "file": "notes/bobup/Tamagotchi firmaware emulating.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -140,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/bobup/Embeded.md",
+                "file": "notes/bobup/Tamagotchi firmaware emulating.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/bobup/Embeded.md",
+                "file": "notes/bobup/Tamagotchi firmaware emulating.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/bobup/Embeded.md"
+                "file": "notes/bobup/Tamagotchi firmaware emulating.md"
               }
             }
           },
@@ -211,10 +165,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d75ec6362ae6d884",
+  "active": "6949cd456fbcae1b",
   "lastOpenFiles": [
-    "notes/bobup/OS.md",
+    "notes/bobup/Tamagotchi firmaware emulating.md",
     "notes/bobup/Embeded.md",
+    "notes/bobup/OS.md",
     "notes/bobup/QEMU Network.md",
     "notes/bobup/네이버클라우드 기술&경험-가상화 개념 이해하기1-QEMUvsKVM.md",
     "Home.md",
@@ -231,7 +186,7 @@
     "notes/bobup/미확인 92398.crdownload",
     "notes/bobup/Qiling.md",
     "assets/Pasted image 20230916041225.png",
-    "체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
+    "notes/bobup/체계적인 IoT 기기의 펌웨어 보안분석 방법에 관한 연구.md",
     "notes/bobup/Unicorn.md",
     "notes/bobup/Renode.md",
     "notes/bobup/IoT Firmware.md",
@@ -251,7 +206,6 @@
     "notes/bobup/Week1 Dashboard.md",
     "notes/bobup/Renode Documentation.md",
     "무제 파일.canvas",
-    "templates/zettelkasten.md",
     "notes",
     "templates",
     "notes/bobup",
