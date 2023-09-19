@@ -10,7 +10,7 @@
 > 
 
 #### Refs
-* [임베디드 레시피]()
+* [임베디드 레시피](https://recipes.tistory.com/)
 
 #### Connected Notes
-- 
+- [[OS]]
