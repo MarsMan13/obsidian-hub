@@ -2,7 +2,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "assets",
   "alwaysUpdateLinks": true,
-  "vimMode": true,
+  "vimMode": false,
   "spellcheck": false,
   "newFileLocation": "current"
 }
