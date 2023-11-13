@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8f5d3035e0e0fcca",
+            "id": "e80e05daca67049d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "e80e05daca67049d",
+            "id": "647ac64fe99696ca",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.4.14"
+                "currentVersion": "1.4.16"
               }
             }
           }
@@ -166,7 +166,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f5d3035e0e0fcca",
+  "active": "e80e05daca67049d",
   "lastOpenFiles": [
     "notes/bobup/LGThinkQ/ProductCard.md",
     "notes/bobup/LGThinkQ/Property.md",
